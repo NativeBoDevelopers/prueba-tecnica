@@ -1,6 +1,6 @@
-# Prueba Técnica
+# Prueba Técnica FrontEnd Developer NativeBo
 
-![Descripción del GIF](https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/654974/Basket-cartoon-charlieburp-cute-pikachu-Favim.com-238931.0.gif)
+![PokeAPI](https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/654974/Basket-cartoon-charlieburp-cute-pikachu-Favim.com-238931.0.gif)
 
 Utilizando la **PokeAPI** (https://pokeapi.co/), crea el siguiente proyecto que contenga lo siguiente:
 
