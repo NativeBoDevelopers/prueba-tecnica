@@ -14,6 +14,8 @@ Debe incluir los siguientes elementos:
 ## Página de Inicio:
 La página de inicio debe mostrar la siguiente información en **cards**:
 
+Puedes usar la siguiente como referencia: https://www.figma.com/design/ObLZpM6eLDPt5v9v3YvHTo/Front-End-Jr.-Test-NB?node-id=0-1&p=f&t=p5fsdkeUqnAVq2DM-0
+
 - Nombre del Pokémon
 - Imagen (sprite) del Pokémon en su versión **shiny** si es que la tiene. En caso de no tener versión shiny, mostrar la imagen por defecto.
 - Naturaleza del Pokémon. Cada naturaleza debe mostrarse con un color diferente, por ejemplo: fuego en color rojo, veneno en color morado, etc.
