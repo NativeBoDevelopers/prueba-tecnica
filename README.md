@@ -25,12 +25,12 @@ La página de inicio debe mostrar la siguiente información en **cards**:
 - Debe haber la posibilidad de eliminar Pokémon de la lista de favoritos.
 
 ## Tecnologías a utilizar:
-- **React** o **Astro**
-- **Tailwind CSS** (obligatorio)
+- La pagina tiene que ser desarrollada en alguna de las siguientes tecnologías: "Vanilla JS** , **React** ,**Astro** , **Vue**
+- **Tailwind CSS** o **Vanilla CSS**
 - Peticiones a la API mediante **fetch** o **axios**
 
 ## Requerimientos de funcionalidad:
-- Mostrar las cards en grupos de 20 y utilizar **infinite scroll** para cargar más elementos.
+- Mostrar las cards en grupos de 20 y utilizar y posibilidad de cargar mas elementos con **infinite scroll** o **Paginacion** para cargar más elementos.
 - Persistencia de los favoritos al cerrar la página (usando `localStorage` o una solución similar).
 
 ## Modularización de componentes:
@@ -48,5 +48,5 @@ La modularización permitirá mantener el código limpio y organizado, lo cual e
 
 > [!IMPORTANT]
 > ## Notas adicionales:
-> - Es obligatorio que la página sea completamente **responsiva**, adaptándose a vista móvil, tablet y desktop mediante **flexbox** o **grid** y **Tailwind CSS**.
+> - Es obligatorio que la página sea completamente **responsiva**, adaptándose a vista móvil, tablet y desktop mediante **flexbox** o **grid**  y **Tailwind CSS** o **Vanilla CSS**.
 > - El diseño será considerado como un criterio importante de evaluación.
