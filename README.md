@@ -52,4 +52,4 @@ La modularización permitirá mantener el código limpio y organizado, lo cual e
 > [!IMPORTANT]
 > ## Notas adicionales:
 > - Es obligatorio que la página sea completamente **responsiva**, adaptándose a vista móvil, tablet y desktop mediante **flexbox** o **grid**  y **Tailwind CSS** o **Vanilla CSS**.
-> - El diseño será considerado como un criterio importante de evaluación.
+
