@@ -25,7 +25,7 @@ La página de inicio debe mostrar la siguiente información en **cards**:
 - Debe haber la posibilidad de eliminar Pokémon de la lista de favoritos.
 
 ## Tecnologías a utilizar:
-- La pagina tiene que ser desarrollada en alguna de las siguientes tecnologías: "Vanilla JS** , **React** ,**Astro** , **Vue**
+- La pagina tiene que ser desarrollada en alguna de las siguientes tecnologías: **Vanilla JS** , **React** ,**Astro** , **Vue**
 - **Tailwind CSS** o **Vanilla CSS**
 - Peticiones a la API mediante **fetch** o **axios**
 
